@@ -1,0 +1,8 @@
+{
+  "name": "Copy of QR Attendance System",
+  "description": "A mobile-first attendance tracking system using QR codes. Admins generate session-based QR codes, and students scan them to mark their attendance, capturing device and location data for verification.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
